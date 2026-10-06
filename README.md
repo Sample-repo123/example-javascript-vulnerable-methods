@@ -2,7 +2,7 @@
 
 A node project to demonstrate srcclr agent's vulnerable methods feature for JavaScript
 
-## Vulnerability 1 (SID-13642) Exploit
+## Vulnerability 1 (SID-13642) Exploits
 
 ```
 git clone https://github.com/srcclr/example-javascript-vulnerable-methods.git
